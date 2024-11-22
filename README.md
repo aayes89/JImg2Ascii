@@ -1,3 +1,3 @@
-# JImg2Ascii
+# JIMG2TEXT
 
-A simple Java Image to ASCII converter
+A simple Java Image to ASCII converter  
