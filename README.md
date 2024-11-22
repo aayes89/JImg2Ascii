@@ -1,2 +1,3 @@
 # JImg2Ascii
-Image to ASCII
+
+A simple Java Image to ASCII converter
